@@ -1,0 +1,17 @@
+# Configurações sensíveis
+appsettings.json
+appsettings.Development.json
+
+# Dados locais
+clientes.json
+.env
+
+# Build
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# logs
+*.log 
